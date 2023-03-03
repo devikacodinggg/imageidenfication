@@ -1,0 +1,6 @@
+https://teachablemachine.withgoogle.com/models/Pqd8Nlx2z/
+
+soft toy
+pen
+book
+spoon
